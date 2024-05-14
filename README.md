@@ -1,5 +1,5 @@
 ### hola mas tarde completo esto 
-![alt text]([http://url/to/img.png](https://media.tenor.com/DTFWkey880EAAAAM/breakdance-cat-%D0%B6%D0%BE%D1%81%D0%BA%D0%B8%D0%B9-%D1%84%D0%BB%D0%B5%D0%BA%D1%81.gif))
+![alt text](https://media.tenor.com/DTFWkey880EAAAAM/breakdance-cat-%D0%B6%D0%BE%D1%81%D0%BA%D0%B8%D0%B9-%D1%84%D0%BB%D0%B5%D0%BA%D1%81.gif)
 
 <!--
 **gastonojedaa/gastonojedaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

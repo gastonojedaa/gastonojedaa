@@ -1,17 +1,24 @@
-### hola mas tarde completo esto 
-![alt text](https://media.tenor.com/DTFWkey880EAAAAM/breakdance-cat-%D0%B6%D0%BE%D1%81%D0%BA%D0%B8%D0%B9-%D1%84%D0%BB%D0%B5%D0%BA%D1%81.gif)
+<h1 align="left">I am Gastón Ojeda</h1>
 
-<!--
-**gastonojedaa/gastonojedaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">About me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="200" src="https://portfolio-gaston-ojeda.netlify.app/_astro/gatolengua.DZ55Vfga_25qWks.webp"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://ar.linkedin.com/in/gaston-ojeda-261278219" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/gaston0jeda/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
